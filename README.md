@@ -46,3 +46,7 @@ A simple Discord bot for sending mass direct messages to all members of a server
 | `list`   | List all server the bot is in | *none* |
 | `massdm`   |  Mass DM everyone in given server  | <guildId \| indexNumber(list)> |
 | `help`   |  View commands | *none* |
+
+## Showcase
+![yVFUpewGE7](yVFUpewGE7.mp4)
+![/Arc_9Klk1F3AJZ.png](Arc_9Klk1F3AJZ.png) ![Arc_wGFkwkx5A1](Arc_wGFkwkx5A1.png) 
